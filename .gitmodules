@@ -1,3 +1,3 @@
 [submodule "foolbox"]
 	path = foolbox
-	url = https://github.com/shitongzhu/foolbox.git
+	url = git@github.com:shitongzhu/foolbox.git
